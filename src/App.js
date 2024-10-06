@@ -51,7 +51,8 @@ function App() {
           <div className="about-left">
             <img src={pic} alt="Rishabh Sinha" className="profile-photo" />
             <a
-              href="https://drive.google.com/file/d/1JylggTYe-9n_VwgTPDLRuWRZKtwQS0tb/view"
+              href="https://drive.google.com/file/d/1bBcZW6e8OJzdrLF32qC5qVv2enMz0SMZ/view?usp=drive_link"
+              
               download
               target="_blank"
               rel="noopener noreferrer" // Added for security
