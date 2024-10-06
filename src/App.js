@@ -100,7 +100,7 @@ function App() {
               <li>Developed a fully functional CodePen clone using React and Material-UI, replicating core features and demonstrating advanced skills in front-end development, UI design, and real-time code execution.</li>
               <li>Designed an aesthetically pleasing and unified user interface with Material-UI that works with various screen sizes and devices.</li>
             </ul>
-            <p>View on <a href="https://github.com/RishabhSinha100/codepen-clone" target="_blank" rel="noopener noreferrer" style={{ color: '#00FF7F' }}>GitHub</a>.</p>
+            <p>View on <a href="https://github.com/RishabhSinha100/CodepenV1" target="_blank" rel="noopener noreferrer" style={{ color: '#00FF7F' }}>GitHub</a>.</p>
           </div>
 
           <div className="project-item">
@@ -110,7 +110,7 @@ function App() {
               <li>Designed and implemented a payroll system using OOPS principles to manage full-time and part-time employees with customized salary calculations based on hours, overtime, and bonuses.</li>
               <li>Managed employee records with automated data input, salary breakdowns, and record storage. Developed a user-friendly terminal interface to streamline payroll management for HR administrators.</li>
             </ul>
-            <p>View on <a href="https://github.com/RishabhSinha100/employee-payroll-system" target="_blank" rel="noopener noreferrer" style={{ color: '#00FF7F' }}>GitHub</a>.</p>
+            <p>View on <a href="https://github.com/RishabhSinha100/EmployeePayrollSystem" target="_blank" rel="noopener noreferrer" style={{ color: '#00FF7F' }}>GitHub</a>.</p>
           </div>
 
           <div className="github-link">
@@ -157,13 +157,13 @@ function App() {
   <h2 style={{ color: '#00FF7F' }}>Certifications</h2>
   <ul className="certification-list">
     <li className="certification-item">
-      Successfully completed a <span className="certification-link"><a href="https://www.udemy.com/certificate/YOUR_MERN_STACK_CERTIFICATE_LINK" target="_blank" rel="noopener noreferrer">MERN Stack course on Udemy</a></span>, enhancing my understanding of this technology stack.
+      Successfully completed a <span className="certification-link"><a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-1b97aa60-3cb6-445f-95d4-8c9bb881628b.pdf" target="_blank" rel="noopener noreferrer">MERN Stack course on Udemy</a></span>, enhancing my understanding of this technology stack.
     </li>
     <li className="certification-item">
-      Earned certification in <span className="certification-link"><a href="https://www.hackerrank.com/certificates/YOUR_JAVASCRIPT_CERTIFICATE_LINK" target="_blank" rel="noopener noreferrer">JavaScript</a></span> from HackerRank.
+      Earned certification in <span className="certification-link"><a href="https://www.hackerrank.com/certificates/5de87cc23134" target="_blank" rel="noopener noreferrer">JavaScript</a></span> from HackerRank.
     </li>
     <li className="certification-item">
-      Earned certification in <span className="certification-link"><a href="https://www.hackerrank.com/certificates/YOUR_CSS_CERTIFICATE_LINK" target="_blank" rel="noopener noreferrer">CSS</a></span> from HackerRank.
+      Earned certification in <span className="certification-link"><a href="https://www.hackerrank.com/certificates/c5f9c11230e4" target="_blank" rel="noopener noreferrer">CSS</a></span> from HackerRank.
     </li>
     <li className="certification-item">
       Resolved over 500 coding challenges across various platforms such as CodeStudio, LeetCode, and HackerRank.
